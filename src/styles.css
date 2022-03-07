@@ -2,3 +2,21 @@
     font-family: sans-serif;
     text-align: center;
   }
+
+  #legend {
+      position: absolute;
+      width: 296px;
+      height: 80px;
+      border-style: solid;
+      background: #ffffff;
+  }
+
+  .legendsection {
+      width: 56px;
+      height: 80px;
+      left: 0px;
+      top: 0px;
+      float: left;
+  }
+
+  

@@ -1,8 +1,13 @@
 import React from 'react'
+import './styles.css'
 
 const Legend = () => {
   return (
-    <div>Legend</div>
+    <div id="legend">
+      <div className= "legendsection">
+          
+      </div>
+    </div>
   )
 }
 
