@@ -19,6 +19,7 @@ const Legend = () => {
             />
           </svg>
           <span className="categorylabel">Food</span>
+          <span className="percentagelabel">25%</span>
       </div>
     </div>
   )

@@ -40,3 +40,18 @@
       color: #263238;
   }
 
+.percentagelabel {
+    position: center;
+    width: 50px;
+    height: 14px;
+    top: 62px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #546e7a;
+}
