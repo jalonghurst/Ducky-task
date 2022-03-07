@@ -1,5 +1,7 @@
 import React from 'react'
-import { Doughnut } from 'react-chartjs-2';
+import "chart.js/auto";
+import { Doughnut } from "react-chartjs-2";
+// import { Chart, ArcElement } from "chart.js";
 
 const DonutChart = () => {
   return (
@@ -28,17 +30,12 @@ const DonutChart = () => {
 
                 hoverOffset: 4,
                 hoverBorderColor: '#000000',
-                hoverBorderWidth: 2,
-                
-            
+                hoverBorderWidth: 2,    
                 
               },
             ],
-           
-   
            }}
-          
-            />
+        />
     </div>
   )
 }
