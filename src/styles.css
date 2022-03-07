@@ -1,6 +1,7 @@
 .App {
     font-family: sans-serif;
     text-align: center;
+   
   }
 
   #legend {
@@ -8,7 +9,8 @@
       width: 296px;
       height: 80px;
       border-style: solid;
-      background: #ffffff;
+      background: #ffffff; 
+      
   }
 
   .legendsection {

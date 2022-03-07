@@ -17,6 +17,7 @@ const Legend = () => {
         </svg>
 
         <span className="categorylabel">Food</span>
+        <br/>
         <span className="percentagelabel">25%</span>
       </div>
 
@@ -32,6 +33,7 @@ const Legend = () => {
         </svg>
 
         <span className="categorylabel">Consumption</span>
+        <br/>
         <span className="percentagelabel">25%</span>
       </div>
 
@@ -48,6 +50,7 @@ const Legend = () => {
         </svg>
 
         <span className="categorylabel">Energy</span>
+        <br/>
         <span className="percentagelabel">25%</span>
       </div>
 
@@ -63,6 +66,7 @@ const Legend = () => {
         </svg>
 
         <span className="categorylabel">Public</span>
+        <br/>
         <span className="percentagelabel">25%</span>
       </div>
 
@@ -79,6 +83,7 @@ const Legend = () => {
 
 
         <span className="categorylabel">Transport</span>
+        <br/>
         <span className="percentagelabel">25%</span>
       </div>
 
