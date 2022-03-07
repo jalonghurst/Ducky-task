@@ -1,5 +1,6 @@
 import './styles.css'
 import './App.css';
+import DonutChart from './DonutChart';
 import React from 'react';
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
         </p>
         
       </header>
+      <DonutChart />
     </div>
   );
 }
