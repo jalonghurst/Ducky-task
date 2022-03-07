@@ -19,4 +19,24 @@
       float: left;
   }
 
-  
+  .icon {
+      width: 36px;
+      height: 36px;
+      top: 0px;
+  }
+
+  .categorylabel {
+      position: center;
+      width: 27px;
+      height: 14px;
+      top: 44px;
+
+      font-family: Hind;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 12px;
+      line-height: 14px;
+      text-align: center;
+      color: #263238;
+  }
+
