@@ -42,11 +42,11 @@ const DonutChart = () => {
                 1176894355.95973,
               ],
               backgroundColor: [
-                "#F6BA75",
-                "#EF5F8A",
-                "#00A1C9",
-                "#673E88",
+                "#EF5F8A", 
+                "#00A1C9", 
+                "#F6BA75", 
                 "#3999E3",
+                "#673E88",
               ],
 
               hoverOffset: 4,
