@@ -5,12 +5,13 @@
   }
 
   #legend {
-      position: absolute;
+     
+      margin: auto;
       width: 296px;
       height: 80px;
       border-style: solid;
       background: #ffffff; 
-      
+     
   }
 
   .legendsection {

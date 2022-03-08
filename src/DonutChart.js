@@ -9,16 +9,16 @@ const DonutChart = () => {
         < Doughnut 
            data={{
             labels: [
-                'Consumption 25%',
-                'Energy 20%',
-                'Food 16%',
-                'Public 26.5%',
-                'Transport 12.5%',
+                ' 25% Consumption co2mg',
+                ' 20% Energy co2mg',
+                ' 16% Food co2mg',
+                ' 26.5% Public co2mg',
+                ' 12.5% Transport co2mg',
               ],
               datasets: [
                   {
                 label: 'Categories',
-                data: [24.941173915018624, 20.21375673683841, 15.928463799510945,26.450070317699502, 12.466535230932529],
+                data: [2354553712.62764, 1908265269.8322, 1503715250.26774, 2497000000, 1176894355.95973],
                 backgroundColor: [
                   '#F6BA75',
                   '#EF5F8A',
