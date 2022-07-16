@@ -2,7 +2,7 @@
     font-family: sans-serif;
     text-align: center;
     box-sizing: border-box;
-    width: 100%;
+    width: 50%;
     height: auto;
   }
 
@@ -60,7 +60,4 @@
     text-align: center;
 
     color: #546e7a;
-}
-.canvas {
-    width: 50%;
 }
