@@ -1,7 +1,9 @@
 .App {
     font-family: sans-serif;
     text-align: center;
-   
+    box-sizing: border-box;
+    width: 100%;
+    height: auto;
   }
 
   #legend {
