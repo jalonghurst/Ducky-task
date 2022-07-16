@@ -4,6 +4,7 @@
     width: 50%;
     height: 100%;
     margin: auto;
+    padding-bottom: 50;
   }
 
   #legend {
@@ -13,9 +14,7 @@
       height: 80px;
       border-style: solid;
       border-color: #e7e7e7;
-      background: #ffffff; 
-      padding-bottom: 50px;
-      
+      background: #ffffff;       
      
   }
 
