@@ -9,4 +9,4 @@ This project was bootstrapped with [Create React App]
 
 **Tech used:** HTML, CSS, JavaScript, React, ChartJS
 
-<img src="https://ibb.co/JpyRs71"/>
+<img width="100%" src="ducky-screenshot.jpg"/>
