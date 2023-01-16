@@ -1,5 +1,6 @@
 # Ducky - Interview Task
 
+An interactive donut chart displaying environmental data.
 **See live:** https://ducky-interview-task.netlify.app/
 
 This project was bootstrapped with [Create React App]
@@ -8,3 +9,4 @@ This project was bootstrapped with [Create React App]
 
 **Tech used:** HTML, CSS, JavaScript, React, ChartJS
 
+<img src="ducky-screenshot.jpg" width="100%" alt=""/>
