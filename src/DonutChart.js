@@ -7,8 +7,8 @@ const DonutChart = () => {
   return (
     <div>
       <Doughnut
-        height="40vw"
-        width="40vw"
+        height="40vh"
+        width="40vh"
         options={{
           cutout: "75%",
           layout: {
