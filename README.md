@@ -1,4 +1,10 @@
-See live: https://ducky-interview-task.netlify.app/
+# Ducky - Interview Task
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**See live:** https://ducky-interview-task.netlify.app/
+
+This project was bootstrapped with [Create React App]
+
+## How It's Made:
+
+**Tech used:** HTML, CSS, JavaScript, React, ChartJS
 
